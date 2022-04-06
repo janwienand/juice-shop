@@ -2,7 +2,7 @@
  * Copyright (c) 2014-2022 Bjoern Kimminich & the OWASP Juice Shop contributors.
  * SPDX-License-Identifier: MIT
  */
-//comment to start debricked scan
+
 import { AbstractControl, FormControl, Validators } from '@angular/forms'
 import { UserService } from '../Services/user.service'
 import { Component } from '@angular/core'
